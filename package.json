@@ -1,0 +1,5 @@
+{
+  "name": "werewolf-online",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
